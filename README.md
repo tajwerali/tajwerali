@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tajwerali
 - 👀 I’m interested in Game developing,Software developing,Web developing,Photography.
-- 🌱 I’m currently trying to learning C++,C#,Python,game dev with unity,web Development,Kolton,Android app development.
+- 🌱 I’m currently trying to learning C++,C#,Python,xml,game dev with unity,web Development,Kolton,Android app development.
 - 💞️ I’m looking to collaborate on Nothing currently.
 - 📫 How to reach me Email:tajwerali838@gmail.com , Instagram:@tajwer.ali_
 - 😄 Pronouns: He/Him
